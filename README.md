@@ -1,4 +1,4 @@
-# flutter_bottom_navigation
+# Flutter Bottom Navigation
 
 A new Flutter application.
 
