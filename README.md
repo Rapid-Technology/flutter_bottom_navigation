@@ -1,6 +1,6 @@
 # Flutter Bottom Navigation
 
-A new Flutter application.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/SbzyBg7PBPM/maxresdefault.jpg)](https://www.youtube.com/watch?v=SbzyBg7PBPM)
 
 ## Getting Started
 
